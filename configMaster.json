@@ -1,0 +1,15 @@
+{
+  "server": {
+    "in_q": "in_queue",
+    "out_q": "A"
+  },
+  "server2": {
+    "in_q": "A",
+    "out_q": "out_queue"
+  },
+  "progress_q": "progress",
+  "log_q": "log",
+  "error_q": "error",
+  "host": "gpu",
+  "port": "5672"
+}
